@@ -20,3 +20,13 @@
  18. Remove Duplicates from Sorted Array - https://leetcode.com/problems/remove-duplicates-from-sorted-array/
  19. Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
  20. Trapping Rain Water - https://leetcode.com/problems/trapping-rain-water/
+ 21. Wildcard Matching - https://leetcode.com/problems/wildcard-matching/
+ 22. Rotate Image - https://leetcode.com/problems/rotate-image/
+ 23. Group Anagrams - https://leetcode.com/problems/group-anagrams/
+ 24. Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
+ 25. Spiral Matrix - https://leetcode.com/problems/spiral-matrix/
+ 26. Unique Paths II - https://leetcode.com/problems/unique-paths-ii/
+ 27. Sqrt(x) - https://leetcode.com/problems/sqrtx/
+ 28. Set Matrix Zeroes - https://leetcode.com/problems/set-matrix-zeroes/
+ 29. Search a 2D Matrix - https://leetcode.com/problems/search-a-2d-matrix/
+ 30. Search in Rotated Sorted Array II - https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
