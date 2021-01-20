@@ -10,3 +10,13 @@
  8. Container With Most Water - https://leetcode.com/problems/container-with-most-water
  9. Integer to Roman - https://leetcode.com/problems/integer-to-roman
  10. Roman to Integer - https://leetcode.com/problems/roman-to-integer
+ 11. Longest Common Prefix - https://leetcode.com/problems/longest-common-prefix/
+ 12. Letter Combinations of a Phone Number - https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+ 13. Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
+ 14. Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
+ 15. Merge k Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
+ 16. Swap Nodes in Pairs - https://leetcode.com/problems/swap-nodes-in-pairs/
+ 17. Reverse Nodes in k-Group - https://leetcode.com/problems/reverse-nodes-in-k-group/
+ 18. Remove Duplicates from Sorted Array - https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+ 19. Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
+ 20. Trapping Rain Water - https://leetcode.com/problems/trapping-rain-water/
