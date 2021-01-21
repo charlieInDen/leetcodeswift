@@ -30,3 +30,14 @@
  28. Set Matrix Zeroes - https://leetcode.com/problems/set-matrix-zeroes/
  29. Search a 2D Matrix - https://leetcode.com/problems/search-a-2d-matrix/
  30. Search in Rotated Sorted Array II - https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+ 31. Binary Tree Inorder Traversal - https://leetcode.com/problems/binary-tree-inorder-traversal/
+ 32. Validate Binary Search Tree - https://leetcode.com/problems/validate-binary-search-tree/
+ 33. Binary Tree Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/
+ 34. Binary Tree Zigzag Level Order Traversal - https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+ 35. Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/
+ 36. Construct Binary Tree from Preorder and Inorder Traversal - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+ 37. Binary Tree Level Order Traversal II - https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
+ 38. Populating Next Right Pointers in Each Node - https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+ 39. Populating Next Right Pointers in Each Node II - https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
+ 40. Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+ 
