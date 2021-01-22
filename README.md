@@ -40,4 +40,14 @@
  38. Populating Next Right Pointers in Each Node - https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
  39. Populating Next Right Pointers in Each Node II - https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
  40. Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+ 41. Best Time to Buy and Sell Stock II - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+ 42. Best Time to Buy and Sell Stock III - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
+ 43. Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
+ 44. Clone Graph - https://leetcode.com/problems/clone-graph/
+ 45. Single Number - https://leetcode.com/problems/single-number/
+ 46. Copy List with Random Pointer - https://leetcode.com/problems/copy-list-with-random-pointer/
+ 47. Linked List Cycle - https://leetcode.com/problems/linked-list-cycle/
+ 48. LRU Cache - https://leetcode.com/problems/lru-cache/
+ 49. Sort List - https://leetcode.com/problems/sort-list/
+ 50. Reverse Words in a String - https://leetcode.com/problems/reverse-words-in-a-string/
  
