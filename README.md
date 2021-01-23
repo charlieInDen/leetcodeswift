@@ -50,4 +50,14 @@
  48. LRU Cache - https://leetcode.com/problems/lru-cache/
  49. Sort List - https://leetcode.com/problems/sort-list/
  50. Reverse Words in a String - https://leetcode.com/problems/reverse-words-in-a-string/
+ 51. Find Minimum in Rotated Sorted Array II - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+ 52. Course Schedule II - https://leetcode.com/problems/course-schedule-ii/
+ 53. Intersection of Two Linked Lists - https://leetcode.com/problems/intersection-of-two-linked-lists/
+ 54. Find Peak Element - https://leetcode.com/problems/find-peak-element/
+ 55. Majority Element - https://leetcode.com/problems/majority-element/
+ 56. Excel Sheet Column Number - https://leetcode.com/problems/excel-sheet-column-number/
+ 57. Rotate Array - https://leetcode.com/problems/rotate-array/
+ 58. Number of Islands - https://leetcode.com/problems/number-of-islands/
+ 59. Reverse Linked List - https://leetcode.com/problems/reverse-linked-list/
+ 60. Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/
  
