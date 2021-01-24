@@ -60,4 +60,14 @@
  58. Number of Islands - https://leetcode.com/problems/number-of-islands/
  59. Reverse Linked List - https://leetcode.com/problems/reverse-linked-list/
  60. Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/
+ 61. Design Add and Search Words Data Structure - https://leetcode.com/problems/design-add-and-search-words-data-structure/
+ 62. Word Search II - https://leetcode.com/problems/word-search-ii/
+ 63. Contains Duplicate - https://leetcode.com/problems/contains-duplicate/
+ 64. Lowest Common Ancestor of a Binary Search Tree - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+ 65. Lowest Common Ancestor of a Binary Tree - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+ 66. Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
+ 67. Sliding Window Maximum - https://leetcode.com/problems/sliding-window-maximum/
+ 68. Search a 2D Matrix II - https://leetcode.com/problems/search-a-2d-matrix-ii/
+ 69. Ugly Number II - https://leetcode.com/problems/ugly-number-ii/
+ 70. Missing Number - https://leetcode.com/problems/missing-number/
  
