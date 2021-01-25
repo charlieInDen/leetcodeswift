@@ -70,4 +70,14 @@
  68. Search a 2D Matrix II - https://leetcode.com/problems/search-a-2d-matrix-ii/
  69. Ugly Number II - https://leetcode.com/problems/ugly-number-ii/
  70. Missing Number - https://leetcode.com/problems/missing-number/
+ 71. Arranging Coins - https://leetcode.com/problems/arranging-coins/
+ 72. H-Index - https://leetcode.com/problems/h-index/
+ 73. First Bad Version - https://leetcode.com/problems/first-bad-version/
+ 74. Serialize and Deserialize Binary Tree - https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+ 75. Coin Change - https://leetcode.com/problems/coin-change/
+ 76. Power of Four - https://leetcode.com/problems/power-of-four/
+ 77. Reverse String - https://leetcode.com/problems/reverse-string/
+ 78. Guess Number Higher or Lower - https://leetcode.com/problems/guess-number-higher-or-lower/
+ 79. Sum of Left Leaves - https://leetcode.com/problems/sum-of-left-leaves/
+ 80. Fizz Buzz - https://leetcode.com/problems/fizz-buzz/
  
