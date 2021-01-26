@@ -80,4 +80,14 @@
  78. Guess Number Higher or Lower - https://leetcode.com/problems/guess-number-higher-or-lower/
  79. Sum of Left Leaves - https://leetcode.com/problems/sum-of-left-leaves/
  80. Fizz Buzz - https://leetcode.com/problems/fizz-buzz/
+ 81. Add Two Numbers II - https://leetcode.com/problems/add-two-numbers-ii/
+ 82. Find All Numbers Disappeared in an Array - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+ 83. Serialize and Deserialize BST - https://leetcode.com/problems/serialize-and-deserialize-bst/
+ 84. Hamming Distance - https://leetcode.com/problems/hamming-distance/
+ 85. Coin Change 2 - https://leetcode.com/problems/coin-change-2/
+ 86. Detect Capital - https://leetcode.com/problems/detect-capital/
+ 87. Design HashSet - https://leetcode.com/problems/design-hashset/
+ 88. Unique Email Addresses - https://leetcode.com/problems/unique-email-addresses/
+ 89. Squares of a Sorted Array - https://leetcode.com/problems/squares-of-a-sorted-array/
+ 90. Cousins in Binary Tree - https://leetcode.com/problems/cousins-in-binary-tree/
  
