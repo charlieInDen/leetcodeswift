@@ -60,4 +60,6 @@
  58. Number of Islands - https://leetcode.com/problems/number-of-islands/
  59. Reverse Linked List - https://leetcode.com/problems/reverse-linked-list/
  60. Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/
+ 61. Odd Even Linked List - https://leetcode.com/problems/odd-even-linked-list/
+
  
