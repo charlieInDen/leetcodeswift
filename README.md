@@ -98,5 +98,8 @@
  96. Design Browser History - https://leetcode.com/problems/design-browser-history/
  97. Encode and Decode TinyURL - https://leetcode.com/problems/encode-and-decode-tinyurl/
 98. Odd Even Linked List - https://leetcode.com/problems/odd-even-linked-list/
+99. Minimum Time Difference - https://leetcode.com/problems/minimum-time-difference/
+100. Count of Smaller Numbers After Self - https://leetcode.com/problems/count-of-smaller-numbers-after-self/
+101. Print Binary Tree - https://leetcode.com/problems/print-binary-tree/
 
  
