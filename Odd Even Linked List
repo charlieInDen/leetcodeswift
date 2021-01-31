@@ -1,0 +1,41 @@
+//
+//  Odd Even Linked List.swift
+//
+//  Created by Parmod Jakhar on 30/01/21.
+//  Copyright © 2020. All rights reserved.
+//
+ 
+//Definition for singly-linked list.
+private class ListNode {
+    var val: Int
+    var next: ListNode?
+    init() { self.val = 0; self.next = nil; }
+    init(_ val: Int) { self.val = val; self.next = nil; }
+    init(_ val: Int, _ next: ListNode?) { self.val = val; self.next = next; }
+}
+
+func oddEvenList(_ head: ListNode?) -> ListNode? {
+    //first element start with odd
+    var odd = head
+    // first even element will be next to first odd element
+    let firstEven = odd?.next  // first even
+    var lastOdd: ListNode? = nil
+    var even = firstEven
+    
+    while(odd != nil || even != nil) {
+        if odd != nil {
+            lastOdd = odd
+            odd?.next = odd?.next?.next
+            odd = odd?.next
+        }
+        
+        if even != nil {
+            even?.next = even?.next?.next
+            even = even?.next
+        }
+    }
+    
+    lastOdd?.next = firstEven
+    
+    return head
+}
