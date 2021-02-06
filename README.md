@@ -105,3 +105,4 @@
 103. Add to Array-Form of Integer - https://leetcode.com/problems/add-to-array-form-of-integer/
 104. Intersection of Two Arrays II - https://leetcode.com/problems/intersection-of-two-arrays-ii/
 105. Prison Cells After N Days - https://leetcode.com/problems/prison-cells-after-n-days/
+106. Find K-th Smallest Pair Distance - https://leetcode.com/problems/find-k-th-smallest-pair-distance/
