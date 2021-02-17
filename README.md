@@ -113,3 +113,4 @@
 111. N-Queens - https://leetcode.com/problems/n-queens/
 112. Basic Calculator II - https://leetcode.com/problems/basic-calculator-ii/
 113. Jump Game - https://leetcode.com/problems/jump-game/
+114. Reaching Points - https://leetcode.com/problems/reaching-points/
