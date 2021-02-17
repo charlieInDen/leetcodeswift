@@ -108,3 +108,9 @@
 106. Find K-th Smallest Pair Distance - https://leetcode.com/problems/find-k-th-smallest-pair-distance/
 107. Remove Duplicates from Sorted Array II - https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
 108. Sequential Digits - https://leetcode.com/problems/sequential-digits/
+109. Sort Colors - https://leetcode.com/problems/sort-colors/
+110. Subsets II - https://leetcode.com/problems/subsets-ii/
+111. N-Queens - https://leetcode.com/problems/n-queens/
+112. Basic Calculator II - https://leetcode.com/problems/basic-calculator-ii/
+113. Jump Game - https://leetcode.com/problems/jump-game/
+114. Reaching Points - https://leetcode.com/problems/reaching-points/
