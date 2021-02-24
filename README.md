@@ -115,3 +115,4 @@
 113. Jump Game - https://leetcode.com/problems/jump-game/
 114. Reaching Points - https://leetcode.com/problems/reaching-points/
 115. Number of 1 Bits - https://leetcode.com/problems/number-of-1-bits/
+116. Random Pick with Blacklist - https://leetcode.com/problems/random-pick-with-blacklist/
