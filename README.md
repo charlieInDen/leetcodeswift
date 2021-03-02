@@ -115,3 +115,8 @@
 113. Jump Game - https://leetcode.com/problems/jump-game/
 114. Reaching Points - https://leetcode.com/problems/reaching-points/
 115. Number of 1 Bits - https://leetcode.com/problems/number-of-1-bits/
+116. Random Pick with Blacklist - https://leetcode.com/problems/random-pick-with-blacklist/
+117. Merge Intervals - https://leetcode.com/problems/merge-intervals/
+118. Length of Last Word - https://leetcode.com/problems/length-of-last-word/
+119. Spiral Matrix II - https://leetcode.com/problems/spiral-matrix-ii/
+120. N-Queens II - https://leetcode.com/problems/n-queens-ii/
