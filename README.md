@@ -122,3 +122,4 @@
 120. N-Queens II - https://leetcode.com/problems/n-queens-ii/
 121. Can You Eat Your Favorite Candy on Your Favorite Day -  https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/
 122. Permutation Sequence - https://leetcode.com/problems/permutation-sequence/
+123. Binary Tree Vertical Order Traversal - https://leetcode.com/problems/binary-tree-vertical-order-traversal/
