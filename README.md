@@ -125,3 +125,4 @@
 123. Binary Tree Vertical Order Traversal - https://leetcode.com/problems/binary-tree-vertical-order-traversal/
 124. Rotate List - https://leetcode.com/problems/rotate-list/
 125. Simplify Path - https://leetcode.com/problems/simplify-path/
+126. Gray Code - https://leetcode.com/problems/gray-code/
