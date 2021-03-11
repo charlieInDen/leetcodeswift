@@ -129,3 +129,4 @@
 127. Permutations II - https://leetcode.com/problems/permutations-ii/
 128. Combinations - https://leetcode.com/problems/combinations/
 129. Combination Sum II - https://leetcode.com/problems/combination-sum-ii/
+130. Decoded String at Index - https://leetcode.com/problems/decoded-string-at-index/
