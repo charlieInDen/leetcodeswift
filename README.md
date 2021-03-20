@@ -137,3 +137,4 @@
 135. Plus One - https://leetcode.com/problems/plus-one/
 136. Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
 137. 4Sum - https://leetcode.com/problems/4sum/
+138. Longest Common Subsequence - https://leetcode.com/problems/longest-common-subsequence/
