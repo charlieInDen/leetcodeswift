@@ -142,3 +142,4 @@
 140. Employee Free Time - https://leetcode.com/problems/employee-free-time/
 141. Robot Room Cleaner - https://leetcode.com/problems/robot-room-cleaner/
 142. Best Meeting Point - https://leetcode.com/problems/best-meeting-point/
+143. First Missing Positive - https://leetcode.com/problems/first-missing-positive/
