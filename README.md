@@ -145,3 +145,4 @@
 143. First Missing Positive - https://leetcode.com/problems/first-missing-positive/
 144. Number of Good Pairs - https://leetcode.com/problems/number-of-good-pairs/
 145. Binary Tree Preorder Traversal - https://leetcode.com/problems/binary-tree-preorder-traversal/
+146. Subsets - https://leetcode.com/problems/subsets/
