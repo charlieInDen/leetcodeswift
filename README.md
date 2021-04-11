@@ -143,3 +143,4 @@
 141. Robot Room Cleaner - https://leetcode.com/problems/robot-room-cleaner/
 142. Best Meeting Point - https://leetcode.com/problems/best-meeting-point/
 143. First Missing Positive - https://leetcode.com/problems/first-missing-positive/
+144. Number of Good Pairs - https://leetcode.com/problems/number-of-good-pairs/
