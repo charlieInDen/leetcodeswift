@@ -146,3 +146,5 @@
 144. Number of Good Pairs - https://leetcode.com/problems/number-of-good-pairs/
 145. Binary Tree Preorder Traversal - https://leetcode.com/problems/binary-tree-preorder-traversal/
 146. Subsets - https://leetcode.com/problems/subsets/
+147. Pascal's Triangle - https://leetcode.com/problems/pascals-triangle/
+148. Pascal's Triangle II - https://leetcode.com/problems/pascals-triangle-ii/
